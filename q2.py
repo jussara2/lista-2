@@ -3,3 +3,4 @@ if valor > 0:
   print("o valor é positivo")
 elif valor < 0:
    print("o valor é negativo")
+    
