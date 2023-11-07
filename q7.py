@@ -14,4 +14,5 @@ elif n2 < n1 and n2 < n3 :
     print(f"{n2}foi o menor numero")
 else:
     print(f"{n3}foi o menor numero")
+    
  
