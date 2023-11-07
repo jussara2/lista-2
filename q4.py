@@ -11,3 +11,4 @@ if(
  print("vogal")
 else:
  print("consoante")
+ 
