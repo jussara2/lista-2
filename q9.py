@@ -13,3 +13,4 @@ elif paixão > amor >vida:
     print(paixão,amor,vida)
 else:
     print(paixão,vida,amor)
+
