@@ -5,3 +5,4 @@ elif sexo == "M" or sexo == "m" :
   print("masculino")
 else:
   print("sexo invalido")   
+  
