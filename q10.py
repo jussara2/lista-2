@@ -7,3 +7,4 @@ elif turno == "N":
     print("boa noite!")
 else:
     print("valor invalido!")
+    
