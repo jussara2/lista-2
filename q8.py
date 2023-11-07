@@ -7,6 +7,7 @@ elif p2 < p1 and p2 < p3:
   print(f"o produto com menor preço é o 2,custando R${p2:.2f}")
 else:
   print(f"o produto com menor preço é o 3,custando R${p3:.2f}")
+
   
 
 
